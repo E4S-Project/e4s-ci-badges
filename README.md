@@ -46,9 +46,34 @@ This repository display CI badges for E4S products.
 | [openmpi](https://github.com/open-mpi/ompi) | |
 | [papi](https://bitbucket.org/icl/papi/src/master/) | |
 | [papyrus](https://code.ornl.gov/eck/papyrus) | |
-
-
-
+| [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) | [Travis CI ![Build Status](https://travis-ci.org/Parallel-NetCDF/PnetCDF.svg?branch=master)](https://travis-ci.org/Parallel-NetCDF/PnetCDF) [Coverity Scan ![Build Status](https://scan.coverity.com/projects/15801/badge.svg)](https://scan.coverity.com/projects/parallel-netcdf-pnetcdf) |
+| [paraview](https://gitlab.kitware.com/paraview/paraview) |  |
+| [parsec](https://bitbucket.org/icldistcomp/parsec/src/master/) | |
+| [petsc](https://gitlab.com/petsc/petsc) | |
+| [power-slurm](https://github.com/tpatki/power-slurm) | |
+| [qthreads](https://github.com/Qthreads/qthreads) | [![Build Status](https://travis-ci.org/Qthreads/qthreads.svg?branch=master)](https://travis-ci.org/Qthreads/qthreads) | 
+| [raja](https://github.com/LLNL/RAJA) | [![Build Status](https://travis-ci.org/LLNL/RAJA.svg?branch=develop)](https://travis-ci.org/LLNL/RAJA) [![Join the chat at https://gitter.im/llnl/raja](https://badges.gitter.im/llnl/raja.svg)](https://gitter.im/llnl/raja?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Coverage](https://img.shields.io/codecov/c/github/LLNL/RAJA/develop.svg)](https://codecov.io/gh/LLNL/RAJA) |
+| [rempi](https://github.com/PRUNERS/ReMPI) | [![Build Status](https://travis-ci.org/PRUNERS/ReMPI.svg?branch=master)](https://travis-ci.org/PRUNERS/ReMPI) |
+| [scalapack](https://github.com/Reference-ScaLAPACK/scalapack) | |
+| [scr](https://github.com/LLNL/scr) | [![User Docs Status](https://readthedocs.org/projects/scr/badge/?version=latest)](https://scr.readthedocs.io/en/latest/?badge=latest) |
+| [sicm](https://github.com/lanl/SICM) | [![Build Status](https://travis-ci.org/lanl/SICM.svg?branch=master)](https://travis-ci.org/lanl/SICM) |
+| [slate](https://bitbucket.org/icl/slate/src/master/) | |
+| [sollve_vv](https://github.com/SOLLVE/sollve_vv) | | 
+| [spack](https://github.com/spack/spack) | [![MacOS Tests](https://github.com/spack/spack/workflows/macos%20tests/badge.svg)](https://github.com/spack/spack/actions) [![Linux Tests](https://github.com/spack/spack/workflows/linux%20tests/badge.svg)](https://github.com/spack/spack/actions) [![Linux Builds](https://github.com/spack/spack/workflows/linux%20builds/badge.svg)](https://github.com/spack/spack/actions) [![macOS Builds (nightly)](https://github.com/spack/spack/workflows/macOS%20builds%20nightly/badge.svg?branch=develop)](https://github.com/spack/spack/actions?query=workflow%3A%22macOS+builds+nightly%22) [![codecov](https://codecov.io/gh/spack/spack/branch/develop/graph/badge.svg)](https://codecov.io/gh/spack/spack) [![Read the Docs](https://readthedocs.org/projects/spack/badge/?version=latest)](https://spack.readthedocs.io) [![Slack](https://spackpm.herokuapp.com/badge.svg)](https://spackpm.herokuapp.com) |
+| [stat](https://github.com/LLNL/STAT) | [![Build Status](https://travis-ci.org/LLNL/STAT.svg?branch=develop)](https://travis-ci.org/LLNL/STAT) [![codecov](https://codecov.io/gh/LLNL/STAT/branch/develop/graph/badge.svg)](https://codecov.io/gh/LLNL/STAT) |
+| [strumpack](https://github.com/pghysels/STRUMPACK) | [![Build Status](https://travis-ci.org/pghysels/STRUMPACK.svg?branch=master)](https://travis-ci.org/pghysels/STRUMPACK) |
+| [sundials](https://github.com/LLNL/sundials) | |
+| [superlu](https://github.com/xiaoyeli/superlu_dist) | [![Build Status](https://travis-ci.org/xiaoyeli/superlu_dist.svg?branch=master)](https://travis-ci.org/xiaoyeli/superlu_dist)  [Nightly tests](http://my.cdash.org/index.php?project=superlu_dist) |
+| [swig](https://github.com/swig/swig) | |
+| [SyclParallelSTL](https://github.com/KhronosGroup/SyclParallelSTL) | [![Build Status](https://travis-ci.org/KhronosGroup/SyclParallelSTL.svg?branch=master)](https://travis-ci.org/KhronosGroup/SyclParallelSTL) | 
+| [SZ](https://github.com/szcompressor/SZ) | |
+| [tasmanian](https://github.com/ORNL/TASMANIAN) | |
+| [tau](https://github.com/UO-OACISS/tau2) | |
+| [trilinos](https://github.com/trilinos/Trilinos) | [![Coverity Scan Build](https://scan.coverity.com/projects/1680/badge.svg)](https://scan.coverity.com/projects/1680) |
+| [trilinos-adelus](https://github.com/trilinos/Trilinos/tree/master/packages/adelus) | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) | 
+| [trilinos-amesos](https://github.com/trilinos/Trilinos/tree/master/packages/amesos) | | 
+| [umap](https://github.com/LLNL/umap) | [![Travis Build Status](https://travis-ci.com/LLNL/umap.svg?branch=develop)](https://travis-ci.com/LLNL/umap) [![Documentation Status](https://readthedocs.org/projects/llnl-umap/badge/?version=develop)](https://llnl-umap.readthedocs.io/en/develop/?badge=develop) |
+| [umpire](https://github.com/LLNL/Umpire) | [![Travis Build Status](https://travis-ci.com/LLNL/Umpire.svg?branch=develop)](https://travis-ci.com/LLNL/Umpire) [![Azure Pipelines Build Status](https://dev.azure.com/davidbeckingsale/Umpire/_apis/build/status/LLNL.Umpire?branchName=develop)](https://dev.azure.com/davidbeckingsale/Umpire/_build/latest?definitionId=1&branchName=develop) [![Documentation Status](https://readthedocs.org/projects/umpire/badge/?version=develop)](https://umpire.readthedocs.io/en/develop/?badge=develop) [![codecov](https://codecov.io/gh/LLNL/Umpire/branch/develop/graph/badge.svg)](https://codecov.io/gh/LLNL/Umpire) [![Join the chat at https://gitter.im/LLNL/Umpire](https://badges.gitter.im/LLNL/Umpire.svg)](https://gitter.im/LLNL/Umpire?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
 
 
 
