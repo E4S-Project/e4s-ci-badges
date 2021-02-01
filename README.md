@@ -35,6 +35,21 @@ This repository display CI badges for E4S products.
 | [hypre](https://github.com/hypre-space/hypre) | |
 | [kokkos](https://github.com/kokkos/kokkos) | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | [kokkos-kernels](https://github.com/kokkos/kokkos-kernels) | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) | 
+| [legion](https://github.com/StanfordLegion/legion) | |
+| [libEnsemble](https://github.com/Libensemble/libensemble/) | [![Documentation](https://readthedocs.org/projects/libensemble/badge/?maxAge=2592000)](https://libensemble.readthedocs.org/en/latest/) [![Coveralls](https://coveralls.io/repos/github/Libensemble/libensemble/badge.svg?branch=master)](https://coveralls.io/github/Libensemble/libensemble?branch=master) [![Travis](https://travis-ci.org/Libensemble/libensemble.svg?branch=master)](https://travis-ci.org/Libensemble/libensemble) [![PyPI](https://img.shields.io/pypi/v/libensemble.svg?color=blue)](https://pypi.org/project/libensemble) |
+| [libmsr](https://github.com/LLNL/libmsr) | [![Read the Docs](http://readthedocs.org/projects/hatchet/badge/?version=latest)](http://hatchet.readthedocs.io) |
+| [magma](https://bitbucket.org/icl/magma/src/master/) | |
+| [marfs](https://github.com/mar-file-system/marfs) | |
+| [mfem](https://github.com/mfem/mfem) | |
+| [mpich](https://github.com/pmodels/mpich) | |
+| [msr-safe](https://github.com/LLNL/msr-safe) | [![Build Status](https://travis-ci.com/LLNL/msr-safe.svg?branch=main)](https://travis-ci.com/LLNL/msr-safe) |
+| [openmpi](https://github.com/open-mpi/ompi) | |
+| [papi](https://bitbucket.org/icl/papi/src/master/) | |
+| [papyrus](https://code.ornl.gov/eck/papyrus) | |
+
+
+
+
 
 
 
