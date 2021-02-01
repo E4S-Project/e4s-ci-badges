@@ -21,6 +21,27 @@ This repository display CI badges for E4S products.
 | [dyninst](https://github.com/dyninst/dyninst) | |
 | [flesci](https://github.com/laristra/flecsi/) | [![Build Status](https://travis-ci.com/laristra/flecsi.svg?branch=master)](https://travis-ci.com/laristra/flecsi) [![codecov.io](https://codecov.io/github/laristra/flecsi/coverage.svg?branch=master)](https://codecov.io/github/laristra/flecsi?branch=master) |
 | [flit](https://github.com/PRUNERS/FLiT) | [![Build Status](https://travis-ci.org/PRUNERS/FLiT.svg?branch=master)](https://travis-ci.org/PRUNERS/FLiT) [![Build Status](https://travis-ci.org/PRUNERS/FLiT.svg?branch=devel)](https://travis-ci.org/PRUNERS/FLiT) ![PyPI - License](https://img.shields.io/pypi/l/Django.svg) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) |
+| [flux-core](https://github.com/flux-framework/flux-core) | [![ci](https://github.com/flux-framework/flux-core/workflows/ci/badge.svg)](https://github.com/flux-framework/flux-core/actions?query=workflow%3A.github%2Fworkflows%2Fmain.yml) [![codecov](https://codecov.io/gh/flux-framework/flux-core/branch/master/graph/badge.svg)](https://codecov.io/gh/flux-framework/flux-core) |
+| [ForTrilinos](https://github.com/trilinos/ForTrilinos) | [![Build Status](https://cloud.cees.ornl.gov/jenkins-ci/buildStatus/icon?job=ForTrilinos-master-continuous)](https://cloud.cees.ornl.gov/jenkins-ci/job/ForTrilinos-master-continuous) [![Documentation Status](http://readthedocs.org/projects/fortrilinos/badge/?version=latest)](http://fortrilinos.readthedocs.io/en/latest/?badge=latest) [![codecov](https://codecov.io/gh/trilinos/ForTrilinos/branch/develop/graph/badge.svg)](https://codecov.io/gh/trilinos/ForTrilinos/branch/develop) |
+| [FPChecker](https://github.com/LLNL/FPChecker) | [![Build Status](https://travis-ci.org/LLNL/FPChecker.svg?branch=master)](https://travis-ci.org/LLNL/FPChecker) |
+| [GASNet](https://bitbucket.org/berkeleylab/gasnet/src/stable/) |  |
+| [geopm](https://github.com/geopm/geopm) | [![Build Status](https://travis-ci.org/geopm/geopm.svg)](https://travis-ci.org/geopm/geopm) ![version](https://img.shields.io/badge/version-1.1.0-blue) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Hacktoberfest 2020](https://img.shields.io/github/hacktoberfest/2020/badges/shields?label=hacktoberfest%202020)](https://github.com/geopm/geopm/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+| [geopm-slurm](https://github.com/geopm/geopm-slurm) | | 
+| [ginkgo](https://github.com/ginkgo-project/ginkgo) | [![Build status](https://gitlab.com/ginkgo-project/ginkgo-public-ci/badges/develop/pipeline.svg)](https://github.com/ginkgo-project/ginkgo/commits/develop) [![OSX-build](https://github.com/ginkgo-project/ginkgo/workflows/OSX-build/badge.svg)](https://github.com/ginkgo-project/ginkgo/actions?query=workflow%3AOSX-build) [![Windows-build](https://github.com/ginkgo-project/ginkgo/workflows/windows-build/badge.svg)](https://github.com/ginkgo-project/ginkgo/actions?query=workflow%3AWindows-build) [![codecov](https://codecov.io/gh/ginkgo-project/ginkgo/branch/develop/graph/badge.svg)](https://codecov.io/gh/ginkgo-project/ginkgo) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ginkgo-project_ginkgo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=ginkgo-project_ginkgo) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ginkgo-project_ginkgo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=ginkgo-project_ginkgo) [![CDash dashboard](https://img.shields.io/badge/CDash-Access-blue.svg)](https://my.cdash.org/index.php?project=Ginkgo+Project) [![Documentation](https://img.shields.io/badge/Documentation-latest-blue.svg)](https://ginkgo-project.github.io/ginkgo/doc/develop/) [![License](https://img.shields.io/github/license/ginkgo-project/ginkgo.svg)](./LICENSE) [![c++ standard](https://img.shields.io/badge/c%2B%2B-14-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization) [![DOI](https://joss.theoj.org/papers/10.21105/joss.02260/status.svg)](https://doi.org/10.21105/joss.02260)
+| [hdf5](https://bitbucket.hdfgroup.org/projects/HDFFV/repos/hdf5/browse) | | 
+| [heffte](https://bitbucket.org/icl/heffte/src/master/) | |
+| [hnrm](https://xgitlab.cels.anl.gov/argo/hnrm/) | |
+| [hpctoolkit](https://github.com/HPCToolkit/hpctoolkit) | |
+| [hypre](https://github.com/hypre-space/hypre) | |
+| [kokkos](https://github.com/kokkos/kokkos) | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [kokkos-kernels](https://github.com/kokkos/kokkos-kernels) | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) | 
+
+
+
+
+
+
+
 
 
 
