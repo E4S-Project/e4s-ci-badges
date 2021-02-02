@@ -74,23 +74,10 @@ This repository display CI badges for E4S products.
 | [trilinos-amesos](https://github.com/trilinos/Trilinos/tree/master/packages/amesos) | | 
 | [umap](https://github.com/LLNL/umap) | [![Travis Build Status](https://travis-ci.com/LLNL/umap.svg?branch=develop)](https://travis-ci.com/LLNL/umap) [![Documentation Status](https://readthedocs.org/projects/llnl-umap/badge/?version=develop)](https://llnl-umap.readthedocs.io/en/develop/?badge=develop) |
 | [umpire](https://github.com/LLNL/Umpire) | [![Travis Build Status](https://travis-ci.com/LLNL/Umpire.svg?branch=develop)](https://travis-ci.com/LLNL/Umpire) [![Azure Pipelines Build Status](https://dev.azure.com/davidbeckingsale/Umpire/_apis/build/status/LLNL.Umpire?branchName=develop)](https://dev.azure.com/davidbeckingsale/Umpire/_build/latest?definitionId=1&branchName=develop) [![Documentation Status](https://readthedocs.org/projects/umpire/badge/?version=develop)](https://umpire.readthedocs.io/en/develop/?badge=develop) [![codecov](https://codecov.io/gh/LLNL/Umpire/branch/develop/graph/badge.svg)](https://codecov.io/gh/LLNL/Umpire) [![Join the chat at https://gitter.im/LLNL/Umpire](https://badges.gitter.im/LLNL/Umpire.svg)](https://gitter.im/LLNL/Umpire?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| [UnifyFS](https://github.com/LLNL/UnifyFS) | [![Build Status](https://api.travis-ci.org/LLNL/UnifyFS.png?branch=dev)](https://travis-ci.org/LLNL/UnifyFS) [![Read the Docs](https://readthedocs.org/projects/unifyfs/badge/?version=dev)](https://unifyfs.readthedocs.io) |
+| [upcxx](https://bitbucket.org/berkeleylab/upcxx/src/master/) | |
+| [variorum](https://github.com/LLNL/variorum) | [![Build Status](https://travis-ci.com/LLNL/variorum.svg?branch=dev)](https://travis-ci.com/LLNL/variorum) [![Read the Docs](https://readthedocs.org/projects/variorum/badge/?version=latest)](http://variorum.readthedocs.io) |
+| [VELOC](https://github.com/ECP-VeloC/VELOC) | [![Build Status](https://api.travis-ci.com/ECP-VeloC/VELOC.png)](https://travis-ci.com/ECP-VeloC/VELOC) | 
+| [visit](https://github.com/visit-dav/visit) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/visit-dav/visit.svg) ![GitHub contributors](https://img.shields.io/github/contributors-anon/visit-dav/visit.svg) |
+| [vtk-m](https://gitlab.kitware.com/vtk/vtk-m) | |
+| [zfp](https://github.com/LLNL/zfp/) | [![Travis CI Build Status](https://travis-ci.org/LLNL/zfp.svg?branch=develop)](https://travis-ci.org/LLNL/zfp) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/qb3ld7j11segy52k/branch/develop?svg=true)](https://ci.appveyor.com/project/lindstro/zfp) [![Documentation Status](https://readthedocs.org/projects/zfp/badge/?version=release0.5.5)](https://zfp.readthedocs.io/en/release0.5.5/?badge=release0.5.5) [![Code Coverage](https://codecov.io/gh/LLNL/zfp/branch/develop/graph/badge.svg)](https://codecov.io/gh/LLNL/zfp) |
